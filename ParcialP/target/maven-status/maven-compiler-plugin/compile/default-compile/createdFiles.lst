@@ -1,0 +1,15 @@
+com\example\parcialp\controllers\UsuarioController.class
+com\example\parcialp\entities\Base.class
+com\example\parcialp\repositories\BaseRepository.class
+com\example\parcialp\services\UsuarioService.class
+com\example\parcialp\entities\Pelicula$PeliculaBuilder.class
+com\example\parcialp\entities\Pelicula.class
+com\example\parcialp\services\UsuarioServiceImpl.class
+com\example\parcialp\repositories\UsuarioRepository.class
+com\example\parcialp\controllers\BaseControllerImpl.class
+com\example\parcialp\entities\Usuario$UsuarioBuilder.class
+com\example\parcialp\entities\Usuario.class
+com\example\parcialp\services\BaseServiceImpl.class
+com\example\parcialp\controllers\BaseController.class
+com\example\parcialp\ParcialPApplication.class
+com\example\parcialp\services\BaseService.class

@@ -1,0 +1,4 @@
+com\example\parcialp\RepositoriesTests\UsuarioRepositoryTest.class
+com\example\parcialp\ParcialPApplicationTests.class
+com\example\parcialp\ServicesTests\UsuarioServiceTest.class
+com\example\parcialp\ControllersTests\UsuarioControllerTest.class
